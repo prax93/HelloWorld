@@ -1,2 +1,3 @@
 # HelloWorld
-My First Git Rep
+My First Git Repo
+This is just a Test and for Fun.
